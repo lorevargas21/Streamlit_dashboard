@@ -1,12 +1,10 @@
 numpy 
 pandas 
-matplotlib.pyplot 
-plotly.graph_objects 
+matplotlib
+plotly 
 datetime
 timedelta
 yfinance 
 streamlit 
 requests
 urllib
-plotly.graph_objects 
-make_subplots
