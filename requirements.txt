@@ -1,11 +1,12 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-from datetime import datetime, timedelta
-import yfinance as yf
-import streamlit as st
-import requests
-import urllib
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+numpy 
+pandas 
+matplotlib.pyplot 
+plotly.graph_objects 
+datetime
+timedelta
+yfinance 
+streamlit 
+requests
+urllib
+plotly.graph_objects 
+make_subplots
