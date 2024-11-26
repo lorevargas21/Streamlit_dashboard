@@ -12,6 +12,8 @@ import urllib
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
+import requests
+import urllib
 
 #Extrat information of Yahoo finance, using professor Minh code 
 class YFinance:
