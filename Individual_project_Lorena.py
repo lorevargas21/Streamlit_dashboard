@@ -122,7 +122,7 @@ def render_header():
     st.subheader("Final Project FINANCIAL PROGRAMMING ")
     col1, col2 = st.columns([1,5])
     col1.write("Data source:")
-    col2.image('./Desktop/yahoo_finance.jpg', width=100)
+    col2.image('./yahoo_finance.jpg', width=100)
     
     # Add the ticker selection on the sidebar
     # Get the list of stock tickers from S&P500
@@ -157,7 +157,7 @@ def render_tab1():
        
     # Show to stock image
     col1, col2, col3 = st.columns([1, 3, 1])
-    col2.image('./Desktop/finalproyect.jpg', use_column_width=True,
+    col2.image('./finalproyect.jpg', use_column_width=True,
                caption='Company Stock Information')
     
     # Get the company information
